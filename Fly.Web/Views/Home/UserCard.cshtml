@@ -1,0 +1,57 @@
+﻿@model Fly.User
+    
+    
+
+<div class="wrapper">
+    <div class="ctr-header">
+        <!-- nav-bar, image, nav-logo -->
+        <img class="header-bg" src="~/images/header-bg.jpg" />
+        <div class="nav">
+            <a class="nav-logo line-el" href="@Url.Action("Index","Home")">FLY-BUY</a>
+
+            <div class="nav-bar line-el">
+                <a class="nav-el dropdown" href="@Url.Action("Contacts", "Home")">Контакты</a>
+                <a class="nav-el dropdown" href="@Url.Action("Index", "Plane")">Каталог</a>
+                <form action="@Url.Action("UserCard","Home")" method="post" name="usercard">
+                    <input hidden value="@User.Identity.Name" name="userName" />
+                    <div class="dropdown">
+                        @*<input class="nav-el-input" type="submit" value="@User.Claims.First().Value">*@
+                        <a class="nav-el user-card" href="javascript:document.usercard.submit()" onclick="form.submit()" type="button">@User.Claims.First().Value</a>
+                        <div class="dropdown-content">
+                            <a href="@Url.Action("Logout", "Account")" type="button">Выйти</a>
+                        </div>
+                        <div class="dropdown-content">
+                            <div class="form-container">
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="data-user">
+            <div class="data-user-data">
+                <p>Ваше имя: @Model.Name</p>
+                <p>Email: @Model.Login</p>
+                <p>Ваши права на сайте: @Model.Role.ToString()</p>
+                @{
+                    if (Model.Balance == null)
+                    {
+                        <p>Баланс на сайте: 0 руб.</p>
+                    }
+                    else
+                    {
+                        <p>Баланс на сайте: @Model.Balance руб.</p>
+                    }
+                }
+                <form action="@Url.Action("TopUpBalance", "User")" method="post">
+                    <input type="hidden" value="@Model.Id" name="userId" />
+                    <a>
+                        Пополнить баланс: <input style="width:50px" name="amountToTopUp"> <button type="submit">Подтвердить</button>
+                    </a>
+                </form>
+                
+            </div>
+            
+        </div>
+    </div>
+</div>

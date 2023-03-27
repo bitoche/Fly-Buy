@@ -1,0 +1,21 @@
+﻿@model Fly.Flight
+
+<a class="btn-go-main" href="@Url.Action("Index", "Home")">&larr;На главную</a>
+<div class="wrapper">
+	<div class="flights-list">
+
+		<div class="flight-model">
+			<h3>ID заявки: @Model.Id</h3>
+			<p><strong>Самолёт:</strong> @Model.PlaneName, ID: @Model.PlaneID</p>
+			<p><strong>Лётчик:</strong> ID: @Model.UserID, E-mail: @Model.UserLogin</p>
+			<p><strong>Стоимость самолёта в час:</strong> @Model.PlanePrice рублей</p>
+			<p><strong>Сумма первичной оплаты:</strong> 30000 рублей.</p>
+			<form action="@Url.Action("PaymentFirst", "Flight")" method="post">
+				<input hidden value="@Model.Id" name="flightid">
+				<button type="submit">Оплатить</button>
+			</form>
+		</div>
+	</div>
+	
+</div>
+

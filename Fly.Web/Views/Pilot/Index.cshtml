@@ -1,0 +1,65 @@
+﻿@model Fly.Flight
+@{
+    
+}
+<style>
+    .pilot-btn{
+        width:30vw;
+        padding:2vw;
+        display:inline;
+        margin-bottom:10px;
+        font-size: 2vw;
+    }
+    .btn-container-inline{
+        margin:0 auto;
+        padding:2vw;
+    }
+    .timer-pilot{
+        font-size: 2vw;
+        width:36vw;
+    }
+    .timers-pilot{
+        margin:0 auto;
+    }
+</style>
+
+<a class="btn-go-main" href="@Url.Action("Index", "Home")">&larr;На главную</a>
+
+@*я создал пользователя с именем Pilot и у него почему то сразу была кнопка интерфейс летчика,это баг*@
+<div class="wrapper">
+    <div class="btn-container-inline">
+        <h3 class="timer-pilot">Пилот: @User.Claims.First().Value<br />@Model.UserLogin<br />ID: @Model.UserID</h3>
+        <h3 class="timer-pilot">Самолёт: @Model.PlaneName<br />ID: @Model.PlaneID<br />Цена за час: @Model.PlanePrice руб.</h3>  
+        @if(Model.Flew == null)
+        {
+            <form action="@Url.Action("Start", "Flight")" method="post">
+                <input hidden value="@Model.Id" name="flightid">
+                <button class="pilot-btn" type="submit">Начать полет</button>
+            </form>
+        }
+        else if(Model.Arrive == null)
+        {
+            <form action="@Url.Action("Stop", "Flight")" method="post">
+                <input hidden value="@Model.Id" name="flightid">
+                <button class="pilot-btn" type="submit">Закончить полет</button>
+            </form>
+        }
+        else
+        {
+            <p class="warn-text">Вы уже выполнили полёт. Ожидается подтверждение вторичной оплаты от бухгалтера.</p>
+        }
+
+        <div class="timers-pilot">
+            <h3 class="timer-pilot">Время вылета: @Model.Flew</h3>
+            <h3 class="timer-pilot">Время посадки: @Model.Arrive</h3>
+            <h3 class="timer-pilot">Время в полете: @(Model.Arrive - Model.Flew)</h3> 
+            @if (Model.Arrive != null)
+            {
+                <h3 class="timer-pilot">Примерная стоимость: @(((((Model.Arrive - Model.Flew).Value.Seconds) + ((Model.Arrive - Model.Flew).Value.Minutes * 60) + ((Model.Arrive - Model.Flew).Value.Hours * 3600)) / (3600.0)) * Model.PlanePrice) руб.</h3>
+            }
+        </div>
+    </div>
+    
+    
+    
+</div>

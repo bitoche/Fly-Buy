@@ -1,0 +1,484 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+    background-image: linear-gradient(to right, #59add4, #eda15f);
+}
+body {
+  background-color: #cccc;
+}
+/* main-container */
+.wrapper {
+  width: 80%;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+/* header-site */
+.ctr-header {
+  height: 50ch;
+  max-width: 1200px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 1000;
+}
+.nav {
+  padding: 20px;
+  background-color: rgba(31, 31, 31, 0.5);
+  margin:0 auto;
+}
+.nav-logo {
+  padding-left: 20px;
+  font-size: 1vw;
+  display: inline-block;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  color: #fff;
+  transition: 0.3s;
+  text-decoration: none;
+}
+
+.nav-logo:hover{
+  color:#fa0000;
+}
+
+.nav-bar {
+  font-size: 20px;
+  text-transform: uppercase;
+  margin: 0 auto;
+  display: inline-flex;
+  float: right;
+}
+.nav-el {
+    display: inline-block;
+    text-decoration: none;
+    outline: none;
+    border-radius: 1px;
+    color: #fff;
+    padding:5px;
+    margin-left: 10px;
+}
+
+.nav-el:hover {
+    color: crimson;
+    background-image: radial-gradient(1px 45% at 0% 50%, rgba(255,255,255,.6), transparent), radial-gradient(1px 45% at 100% 50%, rgba(255,255,255,.6), transparent);
+}
+.user-balance {
+    display: inline-block;
+    text-decoration: none;
+    outline: none;
+    border-radius: 1px;
+    color: #fff;
+    padding: 5px;
+    margin-left: 10px;
+}
+
+.nav-el-input {
+    display: inline-block;
+    background-color: none;
+    border: none;
+}
+
+.user-card:hover{
+    color:cornflowerblue;
+    cursor:pointer;
+}
+
+.header-bg {
+  position: absolute;
+  z-index: -1;
+  padding: 0;
+  width: 100%;
+}
+.text-header {
+  position: ablosute;
+  z-index: 1;
+  color: #fff;
+  text-align: center;
+  margin: 100px;
+}
+.p-1st {
+  font-family: "Ubuntu", sans-serif;
+  font-style: italic;
+  font-weight: 700;
+  font-size: 60px;
+  margin: 0;
+}
+.p-2st {
+  font-family: "Roboto", sans-serif;
+  font-style: italic;
+  font-weight: 700;
+  font-size: 30px;
+  margin: 0;
+}
+
+
+
+
+/*dropdown*/
+/* Style The Dropdown Button */
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+    /* Links inside the dropdown */
+    .dropdown-content a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+    }
+
+        /* Change color of dropdown links on hover */
+        .dropdown-content a:hover {
+            background-color: #f1f1f1
+        }
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
+
+
+
+
+/*/dropDONW*/
+
+
+
+/* main-part */
+.ctr-main {
+  margin-top: 100px;
+  background-color: #fff;
+  text-align: center;
+  width: 960px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 1000;
+  background-color:rgba(0,0,0,0);
+}
+
+/* posts */
+.plane-post {
+    background-color: rgba(100, 100, 100, 0.3);
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.post-img {
+  width: 90%;
+}
+
+.post-title {
+  text-align: left;
+  padding-left: 25px;
+}
+
+.post-description {
+  text-align: justify;
+  padding: 0 50px;
+}
+.post-scriptum {
+    text-align: justify;
+    padding: 0 50px;
+    color: rgba(0,0,0,0.5)
+}
+/* кнопка забронировать */
+.btn-post-book {
+  font-family: "Ubuntu", sans-serif;
+  display: inline-block;
+  border-radius: 4px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #d3a718;
+  background-color: rgba(31, 31, 31, 0.1);
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-size: 20px;
+  padding: 15px;
+  transition: all 0.3s;
+  cursor: pointer;
+  margin: 5px;
+  text-decoration:none;
+  margin-bottom: 50px;
+}
+.btn-post-book:hover {
+  background-color: #d3a718;
+  color: #fff;
+}
+
+
+/* login page */
+
+.wrapper-login {
+  width: 40%;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.container-login
+{
+  padding:40px;
+  background-color: #cccc;
+  margin-top: 100px;
+}
+
+.login-title{
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.btn-go-main{
+    position:relative;
+  margin:15px;
+  text-decoration: none;
+  font-weight: 500;
+  color: #000000;
+  transition: all 0.3s;
+  font-weight: 700;
+}
+.btn-go-main:hover{
+  color: #ffc400;
+}
+
+.mx-auto{
+  margin: 0 auto;
+}
+
+.redirect-to-registration{
+  margin-left:20px;
+  text-decoration: none;
+  color:#000000;
+}
+
+/* catalog */
+
+.header-catalog{
+  height:auto;
+  width: 100%;
+  max-width: 1200px;
+}
+.ctr-catalog{
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.title-catalog{
+  margin:40px auto;
+}
+
+.catalog-list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.catalog-model {
+    background-color: #fff;
+    width: 360px;
+    max-width: 28%;
+    text-align: center;
+    padding: 20px;
+    border-style:solid;
+    border-width:2px;
+    margin-top:10px;
+}
+.model-img{
+    max-width:100%;
+  overflow:hidden;
+    width:300px;
+    height: 200px;
+    object-fit: cover;
+}
+.model-title{
+  margin:0;
+  margin-bottom:10px;
+}
+.book-button{
+    text-decoration:none;
+  font-size: 16px;
+  padding:5px;
+  display: inline-block;
+
+  border-radius: 4px;
+  border-style: solid;
+  border-width: 1px;
+  text-align: center;
+  margin-top: 15px;
+  cursor: pointer;
+  color:#000000;
+  background-color: #fff;
+  transition: all 0.2s;
+}
+.book-button-deactive {
+    text-decoration: none;
+    font-size: 16px;
+    padding: 5px;
+    display: inline-block;
+    border-radius: 4px;
+    border-style: solid;
+    border-width: 1px;
+    text-align: center;
+    margin-top: 15px;
+    cursor: not-allowed;
+    color: rgba(255,255,255,.2);
+    background-color: rgba(255,255,255,.6);
+    transition: all 0.2s;
+}
+.book-button:hover{
+  background-color: #363636;
+  color:#fff;
+
+}
+/* всплывающее окно с инфо */
+
+.href-button-text{
+  text-decoration: none;
+  color:#000000;
+}
+
+#info-page{
+    z-index:1001;
+  display: none;
+  position: absolute;
+  width:500px;
+  height:300px;
+  max-width: 500px;
+  max-height: 300px;
+  background-color: rgba(31, 31, 31, 0.95);
+  
+}
+#info-page:target{
+  display: relative;
+  vertical-align: middle;
+
+}
+.info-page-lr{
+  display: inline-flex;
+}
+
+
+
+
+
+
+/*nexgen*/
+.non-common-container-btns {
+    margin-top: 100px;
+    position: absolute;
+}
+.non-common-btn{
+    position:relative;
+    z-index: 1001;
+    background-color:#fff;
+    color:black;
+    border-color:black;
+    border-style:solid;
+    border-width:0.2vw;
+    padding:1vw;
+    font-size:1vw;
+    margin-bottom:10px;
+    transition: all 0.2s;
+    margin:10px;
+}
+.non-common-btn:hover{
+    color:white;
+    background-color:dimgray;
+    cursor: pointer;
+}
+
+
+.none-decoration{
+    text-decoration:none;
+}
+
+
+/*accountant*/
+acc-top-ctr {
+    padding: 20px;
+    margin: 20px;
+    background-color: lightgray;
+}
+acc-bottom-ctr {
+    padding: 20px;
+    margin: 20px;
+    background-color: gray;
+}
+
+.flight-model{
+    width:40vw;
+    padding: 5vw;
+    border-color: darkslategray;
+    border-width:2px;
+    border-style:solid;
+}
+.flights-list{
+    margin: 0 auto;
+}
+.micro-btn{
+    font-size: 10px;
+}
+.pilot-btn:hover{
+    background-color: indianred;
+    cursor: pointer;
+}
+.warn-message-ctr {
+    margin-top: 100px;
+    position: absolute;
+    left:80vw;
+}
+.warn-message {
+    position: relative;
+    z-index: 1001;
+    
+    font-weight: 700;
+    font-size: 1vw;
+    color: rgb(30,30,30);
+    background-color: rgba(255,102,0, 0.5)
+}
+.warn-text {
+    padding:1vw;
+    font-weight: 700;
+    font-size: 2vw;
+    color: white;
+    background-color: rgba(0,0,0,0.3)
+}
+.data-user{
+    margin:0 auto;
+    background-color:rgba(0,0,0,0.6);
+    color:#fff;
+}
+.data-user-data {
+    margin-top: 50px; 
+    text-align:center;
+    padding:10px;
+}

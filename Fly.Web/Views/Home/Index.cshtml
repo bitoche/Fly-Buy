@@ -1,0 +1,106 @@
+﻿
+<title>@ViewData["Title"] - Главная</title>
+
+
+<head>
+
+
+    <!-- fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap"
+          rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,700;1,700&display=swap"
+          rel="stylesheet" />
+
+</head>
+
+<body>
+    
+    <div class="wrapper">
+        <div class="ctr-header">
+            <!-- nav-bar, image, nav-logo -->
+            <img class="header-bg" src="~/images/header-bg.jpg" />
+            <div class="nav">
+                <a class="nav-logo line-el" href="@Url.Action("Index","Home")">FLY-BUY</a>
+
+                <div class="nav-bar line-el">
+                    <a class="nav-el dropdown" href="@Url.Action("Contacts", "Home")">Контакты</a>
+                    <a class="nav-el dropdown" href="@Url.Action("Index", "Plane")">Каталог</a>
+                    
+                    @{
+                        if (!User.Identity.IsAuthenticated)
+                    {
+                        <a class="nav-el" href="@Url.Action("Login", "Account")" type="button">Войти</a>
+                    }
+                    else
+                    {
+                        
+                        <form action="@Url.Action("UserCard","Home")" method="post" name="usercard">
+                            <input hidden value="@User.Identity.Name" name="userName" />
+                                <div class="dropdown">
+                                    @*<input class="nav-el-input" type="submit" value="@User.Claims.First().Value">*@
+                                <a class="nav-el user-card" href="javascript:document.usercard.submit()" onclick="form.submit()" type="button">@User.Claims.First().Value</a>
+                                    <div class="dropdown-content">
+                                        <a href="@Url.Action("Logout", "Account")" type="button">Выйти</a>
+                                    </div>
+                                    <div class="dropdown-content">
+                                        <div class="form-container">
+                                    
+                                                
+                                                
+                                    
+                                        </div>
+                                
+                                    </div>
+                                </div>
+                        </form>
+                            <a class="user-balance">Баланс: @User.Claims.ElementAt(3).Value руб.</a>
+                    }
+                    }
+
+                </div>
+            </div>
+            <div class="text-header">
+                <p class="p-1st">FLY-BUY</p>
+                <p class="p-2st">Забронируйте и оплатите самолёт онлайн!</p>
+            </div>
+        </div>
+        <!-- /ctr-header -->
+
+        <div class="ctr-main">
+
+            <!-- lenta-samoletov -->
+            <div class="plane-post">
+                <h1 class="post-title">Внимание! Что нужно, чтобы арендовать самолет?</h1>
+                <p class="post-description">
+                    >>> Первое, и самое главное - лицензия пилота.
+                </p>
+                <p class="post-description">
+                    >>> Действующий ВЛЭК.
+                </p>
+                <p class="post-description">
+                    >>> Актуальная проверка*
+                </p>
+                <p class="post-description" style="margin-down:0;">
+                    >>> Самостоятельная аренда – налет от 150 часов** на типе «однодвигательный сухопутный» 
+                </p>
+                <p class="post-description" style="margin-up:0;">
+                    <small>(по условиям страхового полиса КАСКО)</small>
+                </p>
+                
+                <img class="post-img"
+                     src="~/images/planes/info_image.jpg" />
+                <p class="post-scriptum"><small>*Согласно ФАП N147 2.22 пилот должен проходить квалификационную проверку с пилотом-инструктором один раз в 24 месяца.</small></p>
+                <p class="post-scriptum"><small>**Если у вас нет 150 часов налёта - вы обязаны летать с сейфети пилотом.</small></p>
+            </div>
+            <a class="btn-post-book" href="@Url.Action("Index", "Plane")">Зарезервировать</a>
+        </div>
+        <div class="ctr-footer">
+            <!-- copyright,contacts i t d -->
+        </div>
+    </div>
+
+    <!-- scripts -->
+    <script src="assets/js/script.js"></script>
+</body>

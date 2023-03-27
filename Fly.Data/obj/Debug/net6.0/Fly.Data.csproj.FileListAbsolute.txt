@@ -1,0 +1,102 @@
+C:\Users\ghoul\source\repos\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.csproj.AssemblyReference.cache
+C:\Users\ghoul\source\repos\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghoul\source\repos\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.AssemblyInfoInputs.cache
+C:\Users\ghoul\source\repos\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.AssemblyInfo.cs
+C:\Users\ghoul\source\repos\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.csproj.CoreCompileInputs.cache
+C:\Users\ghoul\source\repos\fly\Fly.Data\bin\Debug\net6.0\Fly.Data.deps.json
+C:\Users\ghoul\source\repos\fly\Fly.Data\bin\Debug\net6.0\Fly.Data.runtimeconfig.json
+C:\Users\ghoul\source\repos\fly\Fly.Data\bin\Debug\net6.0\Fly.Data.dll
+C:\Users\ghoul\source\repos\fly\Fly.Data\bin\Debug\net6.0\Fly.Data.pdb
+C:\Users\ghoul\source\repos\fly\Fly.Data\bin\Debug\net6.0\Fly.dll
+C:\Users\ghoul\source\repos\fly\Fly.Data\bin\Debug\net6.0\Fly.pdb
+C:\Users\ghoul\source\repos\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.csproj.CopyComplete
+C:\Users\ghoul\source\repos\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.dll
+C:\Users\ghoul\source\repos\fly\Fly.Data\obj\Debug\net6.0\refint\Fly.Data.dll
+C:\Users\ghoul\source\repos\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.pdb
+C:\Users\ghoul\source\repos\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.genruntimeconfig.cache
+C:\Users\ghoul\source\repos\fly\Fly.Data\obj\Debug\net6.0\ref\Fly.Data.dll
+C:\Users\bitoche\Desktop\fly\Fly.Data\bin\Debug\net6.0\Fly.Data.deps.json
+C:\Users\bitoche\Desktop\fly\Fly.Data\bin\Debug\net6.0\Fly.Data.runtimeconfig.json
+C:\Users\bitoche\Desktop\fly\Fly.Data\bin\Debug\net6.0\Fly.Data.dll
+C:\Users\bitoche\Desktop\fly\Fly.Data\bin\Debug\net6.0\Fly.Data.pdb
+C:\Users\bitoche\Desktop\fly\Fly.Data\bin\Debug\net6.0\Fly.dll
+C:\Users\bitoche\Desktop\fly\Fly.Data\bin\Debug\net6.0\Fly.pdb
+C:\Users\bitoche\Desktop\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.csproj.AssemblyReference.cache
+C:\Users\bitoche\Desktop\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitoche\Desktop\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.AssemblyInfoInputs.cache
+C:\Users\bitoche\Desktop\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.AssemblyInfo.cs
+C:\Users\bitoche\Desktop\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.csproj.CoreCompileInputs.cache
+C:\Users\bitoche\Desktop\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.csproj.CopyComplete
+C:\Users\bitoche\Desktop\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.dll
+C:\Users\bitoche\Desktop\fly\Fly.Data\obj\Debug\net6.0\refint\Fly.Data.dll
+C:\Users\bitoche\Desktop\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.pdb
+C:\Users\bitoche\Desktop\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.genruntimeconfig.cache
+C:\Users\bitoche\Desktop\fly\Fly.Data\obj\Debug\net6.0\ref\Fly.Data.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Data\bin\Debug\net6.0\Fly.Data.deps.json
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Data\bin\Debug\net6.0\Fly.Data.runtimeconfig.json
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Data\bin\Debug\net6.0\Fly.Data.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Data\bin\Debug\net6.0\Fly.Data.pdb
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Data\bin\Debug\net6.0\Fly.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Data\bin\Debug\net6.0\Fly.pdb
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.csproj.AssemblyReference.cache
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.AssemblyInfoInputs.cache
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.AssemblyInfo.cs
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.csproj.CoreCompileInputs.cache
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.csproj.CopyComplete
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Data\obj\Debug\net6.0\refint\Fly.Data.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.pdb
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.genruntimeconfig.cache
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Data\obj\Debug\net6.0\ref\Fly.Data.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Data\bin\Debug\net6.0\Fly.Data.deps.json
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Data\bin\Debug\net6.0\Fly.Data.runtimeconfig.json
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Data\bin\Debug\net6.0\Fly.Data.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Data\bin\Debug\net6.0\Fly.Data.pdb
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Data\bin\Debug\net6.0\Fly.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Data\bin\Debug\net6.0\Fly.pdb
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.csproj.AssemblyReference.cache
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.AssemblyInfoInputs.cache
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.AssemblyInfo.cs
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.csproj.CoreCompileInputs.cache
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.csproj.CopyComplete
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Data\obj\Debug\net6.0\refint\Fly.Data.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.pdb
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.genruntimeconfig.cache
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Data\obj\Debug\net6.0\ref\Fly.Data.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Data\bin\Debug\net6.0\Fly.Data.deps.json
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Data\bin\Debug\net6.0\Fly.Data.runtimeconfig.json
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Data\bin\Debug\net6.0\Fly.Data.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Data\bin\Debug\net6.0\Fly.Data.pdb
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Data\bin\Debug\net6.0\Fly.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Data\bin\Debug\net6.0\Fly.pdb
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.csproj.AssemblyReference.cache
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.AssemblyInfoInputs.cache
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.AssemblyInfo.cs
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.csproj.CoreCompileInputs.cache
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.csproj.CopyComplete
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Data\obj\Debug\net6.0\refint\Fly.Data.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.pdb
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.genruntimeconfig.cache
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Data\obj\Debug\net6.0\ref\Fly.Data.dll
+C:\Users\Geome\source\repos\fly\Fly.Data\bin\Debug\net6.0\Fly.Data.deps.json
+C:\Users\Geome\source\repos\fly\Fly.Data\bin\Debug\net6.0\Fly.Data.runtimeconfig.json
+C:\Users\Geome\source\repos\fly\Fly.Data\bin\Debug\net6.0\Fly.Data.dll
+C:\Users\Geome\source\repos\fly\Fly.Data\bin\Debug\net6.0\Fly.Data.pdb
+C:\Users\Geome\source\repos\fly\Fly.Data\bin\Debug\net6.0\Fly.dll
+C:\Users\Geome\source\repos\fly\Fly.Data\bin\Debug\net6.0\Fly.pdb
+C:\Users\Geome\source\repos\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.csproj.AssemblyReference.cache
+C:\Users\Geome\source\repos\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geome\source\repos\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.AssemblyInfoInputs.cache
+C:\Users\Geome\source\repos\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.AssemblyInfo.cs
+C:\Users\Geome\source\repos\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.csproj.CoreCompileInputs.cache
+C:\Users\Geome\source\repos\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.csproj.CopyComplete
+C:\Users\Geome\source\repos\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.dll
+C:\Users\Geome\source\repos\fly\Fly.Data\obj\Debug\net6.0\refint\Fly.Data.dll
+C:\Users\Geome\source\repos\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.pdb
+C:\Users\Geome\source\repos\fly\Fly.Data\obj\Debug\net6.0\Fly.Data.genruntimeconfig.cache
+C:\Users\Geome\source\repos\fly\Fly.Data\obj\Debug\net6.0\ref\Fly.Data.dll

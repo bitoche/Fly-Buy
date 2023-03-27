@@ -1,0 +1,99 @@
+﻿@model Fly.Plane[]
+@*ПЕРЕДАЁТ ПУСТУЮ МОДЕЛЬ*@
+
+
+
+<a class="btn-go-main" href="@Url.Action("Index", "Home")">&larr;На главную</a>
+
+@if (User.Identity.IsAuthenticated && !User.IsInRole("Common"))
+{
+
+    if (User.IsInRole("Administrator"))
+    {
+        <div class="non-common-container-btns">
+
+            <form action="@Url.Action("AddPlane","Plane")" method="get">
+                <button class="non-common-btn" type="submit">
+                    Добавить самолёт
+                </button>
+            </form>
+        </div>
+    }
+}
+
+    <div class="wrapper">
+   
+        <div class="ctr-header header-catalog">
+            <!-- nav-bar, image, nav-logo -->
+            <div class="nav">
+            <a class="nav-logo line-el" href="@Url.Action("Index","Home")">FLY-BUY</a>
+            
+    
+                <div class="nav-bar line-el">
+                @{
+                    if (!User.Identity.IsAuthenticated)
+                    {
+                        <a class="nav-el" href="@Url.Action("Login", "Account")" type="button">Войти</a>
+                    }
+                    else
+                    {
+                        <form action="@Url.Action("UserCard","Home")" method="post" name="usercard">
+                            <input hidden value="@User.Identity.Name" name="userName" />
+                                <div class="dropdown">
+                                    @*<input class="nav-el-input" type="submit" value="@User.Claims.First().Value">*@
+                                <a class="nav-el user-card" href="javascript:document.usercard.submit()" onclick="form.submit()" type="button">@User.Claims.First().Value</a>
+                                    <div class="dropdown-content">
+                                        <a href="@Url.Action("Logout", "Account")" type="button">Выйти</a>
+                                    </div>
+                                    <div class="dropdown-content">
+                                        <div class="form-container">
+                                    
+                                                
+                                                
+                                    
+                                        </div>
+                                
+                                    </div>
+                                </div>
+                        </form>
+
+                    }
+                }
+                </div>
+            </div>
+        </div>
+        <div class="ctr-catalog">
+            <h1 class="title-catalog">Наши самолеты:</h1>
+            
+            <div class="catalog-list"">
+                @{
+                foreach(var plane in Model){
+                    <div class="catalog-model">
+                        @if (User.Identity.IsAuthenticated && User.IsInRole("Administrator"))
+                        {
+                            <form action="@Url.Action("RemovePlane","Plane")" method="get">
+                                <input hidden value="@plane.Id" name="planeId">
+                                <button class="" style="margin-left:2ch" type="submit">
+                                    Удалить(без подтверждения)
+                                </button>
+                            </form>
+                        }
+                        <h2 class="model-title">@plane.Name</h2>
+                        <p class="model-desc">Координаты ВПП: @plane.CoordRunwStrip</p>
+                        <img class="model-img" src="@plane.Image" alt="">
+                        <p class="model-desc">@plane.Description</p>
+                        <form action="@Url.Action("AddFlight", "Flight")" method="post">
+                            <input hidden value="@plane.Id" name="planeId">
+                            <input hidden value="@User.Claims.ElementAt(1).Value" name="login">
+                            @if((!User.IsInRole("Pilot"))&(!User.IsInRole("Reservist"))){
+                                <button class="book-button" type="submit">
+                                    Забронировать
+                                </button>
+                            }
+                        </form>
+                    </div>
+                }}
+            </div>
+        </div>
+        
+    </div>

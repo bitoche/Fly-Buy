@@ -1,0 +1,51 @@
+﻿@model Fly.Flight[]
+
+<a class="btn-go-main" href="@Url.Action("Index", "Home")">&larr;На главную</a>
+<div class="wrapper">
+	<div class="flights-list">
+		@foreach (var flight in Model)
+		{
+			<div class="flight-model">
+				<form action="@Url.Action("RemoveFlight","Flight")" method="get">
+					<input hidden value="@flight.Id" name="flightid">
+					<button class="" style="margin-left:2ch" type="submit">
+						Удалить(без подтверждения)
+					</button>
+				</form>
+				<h3>ID заявки: @flight.Id</h3>
+				<p><strong>Самолёт:</strong> @flight.PlaneName, ID: @flight.PlaneID</p>
+				<p><strong>Лётчик:</strong> ID: @flight.UserID, E-mail для связи: @flight.UserLogin</p>
+				<p><strong>Стоимость самолёта в час: @flight.PlanePrice рублей</strong></p>
+				@if (@flight.Flew != null)
+				{
+					<p>Вылет: @flight.Flew</p>
+				}
+				@if (@flight.Arrive != null)
+				{
+					<p>Прилетел: @flight.Arrive</p>
+				}
+				@if(flight.Flew == null){
+					<p><strong>Сумма первичной оплаты: 30000 рублей.</strong></p>
+					<form action="@Url.Action("AccessFirstPay", "Flight")" method="post">
+						<input hidden value="@flight.Id" name="flightid">
+						<button type="submit">Подтвердить первичную оплату</button>
+					</form>
+				}
+				@if(flight.Flew!=null & flight.Arrive==null)
+				{
+					<p>Происходит в данный момент</p>
+				}
+				@if(flight.Arrive!= null)
+				{
+					<p>Примерная сумма оплаты: @(((((flight.Arrive - flight.Flew).Value.Seconds)+((flight.Arrive - flight.Flew).Value.Minutes*60)+((flight.Arrive - flight.Flew).Value.Hours*3600))/(3600.0))*flight.PlanePrice) рублей.</p>
+					<form action="@Url.Action("AccessSecondPay", "Flight")" method="post">
+						<input hidden value="@flight.Id" name="flightid">
+						<button type="submit">Подтвердить вторичную оплату</button>
+					</form>
+				}
+			</div>
+		}
+	</div>
+	
+</div>
+

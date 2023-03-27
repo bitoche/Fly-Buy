@@ -1,0 +1,69 @@
+﻿@model Fly.User[]
+
+
+
+<a class="btn-go-main" href="@Url.Action("Index", "Home")">&larr;На главную</a>
+<div class="wrapper">
+	@foreach (var user in Model)
+{
+	<div class="container-fluid " style=" text-align: center; max-width:60%; margin-bottom: 3ch; background-color:bisque; padding-left: 2ch; padding-right:2ch; padding-top:2ch;padding-bottom:2ch; border-style:dotted;">
+		<form action="@Url.Action("DeleteUser", "User")">
+			<input type="hidden" value="@user.Id" name="userId" />
+			<button type="submit" class="micro-btn">Удалить пользователя(без подтверждения)</button>
+		</form>
+		
+			<p>
+				<ul style="list-style-type:none; padding-left:0;">
+					<li style="display:inline">
+						<a>
+							ID: <strong>@user.Id</strong>
+						</a>
+					</li>
+					<li style="display:inline">
+						<a>
+							Имя: <strong>@user.Name</strong>
+						</a>
+					 </li>
+					 <li>
+						 <a>
+							 Баланс: <strong>@user.Balance</strong> руб 
+						</a>
+					 </li>
+					 <li>
+						 <a>
+							Роль: <strong>@user.Role.ToString()</strong>
+						 </a>
+					 </li>
+				</ul>
+			</p>
+			<form action="@Url.Action("ChangeRole","User")" method="post">
+				<input type="hidden" value="@user.Id" name="userId" />
+				<a>Выбрать роль: </a>
+				<select class="form-control" name="roleId">
+					<option value="0">Обычный</option>
+					<option value="1">Администратор</option>
+					<option value="2">Бухгалтер</option>
+					<option value="3">Лётчик</option>
+					<option value="4">Резервист</option>
+				</select>
+				<button type="submit">Подтвердить</button>
+			</form>
+			<form action="@Url.Action("TopUpBalance", "User")" method="post">
+				<input type="hidden" value="@user.Id" name="userId" />
+				<a>
+					Пополнить баланс: <input style="width:50px" name="amountToTopUp"> <button type="submit">Подтвердить</button>
+				</a>
+			</form>
+			<form action="@Url.Action("WriteOffBalance", "User")" method="post">
+				<input type="hidden" value="@user.Id" name="userId" />
+				<a>
+					Списать баланс: <input style="width:50px" name="amountToWriteOff"> <button type="submit">Подтвердить</button>
+				</a><br>
+				<small>Внимание! Нельзя списывать с баланса больше, чем на нём есть.</small>
+			</form>
+	</div>
+	
+}
+<a class="non-common-btn" href="@Url.Action("Register", "Account")" style="margin-left: 40px; text-decoration: none; ">Добавить пользователя</a>
+</div>
+

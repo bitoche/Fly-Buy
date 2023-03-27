@@ -1,0 +1,533 @@
+C:\Users\ghoul\source\repos\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.csproj.AssemblyReference.cache
+C:\Users\ghoul\source\repos\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghoul\source\repos\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.AssemblyInfoInputs.cache
+C:\Users\ghoul\source\repos\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.AssemblyInfo.cs
+C:\Users\ghoul\source\repos\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.csproj.CoreCompileInputs.cache
+C:\Users\ghoul\source\repos\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ghoul\source\repos\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.RazorAssemblyInfo.cache
+C:\Users\ghoul\source\repos\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.RazorAssemblyInfo.cs
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.staticwebassets.runtime.json
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.exe
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.deps.json
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.runtimeconfig.json
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.pdb
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Fly.Data.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Fly.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Fly.Services.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Fly.Data.pdb
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Fly.Services.pdb
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Fly.pdb
+C:\Users\ghoul\source\repos\fly\Fly.Web\obj\Debug\net6.0\staticwebassets\msbuild.Fly.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ghoul\source\repos\fly\Fly.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Fly.Web.props
+C:\Users\ghoul\source\repos\fly\Fly.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Fly.Web.props
+C:\Users\ghoul\source\repos\fly\Fly.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Fly.Web.props
+C:\Users\ghoul\source\repos\fly\Fly.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ghoul\source\repos\fly\Fly.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ghoul\source\repos\fly\Fly.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ghoul\source\repos\fly\Fly.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ghoul\source\repos\fly\Fly.Web\obj\Debug\net6.0\scopedcss\bundle\Fly.Web.styles.css
+C:\Users\ghoul\source\repos\fly\Fly.Web\obj\Debug\net6.0\scopedcss\projectbundle\Fly.Web.bundle.scp.css
+C:\Users\ghoul\source\repos\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.csproj.CopyComplete
+C:\Users\ghoul\source\repos\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\obj\Debug\net6.0\refint\Fly.Web.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.pdb
+C:\Users\ghoul\source\repos\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.genruntimeconfig.cache
+C:\Users\ghoul\source\repos\fly\Fly.Web\obj\Debug\net6.0\ref\Fly.Web.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ghoul\source\repos\fly\Fly.Web\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.staticwebassets.runtime.json
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.exe
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.deps.json
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.runtimeconfig.json
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.pdb
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Humanizer.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Fly.Data.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Fly.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Fly.Services.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Fly.Data.pdb
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Fly.Services.pdb
+C:\Users\bitoche\Desktop\fly\Fly.Web\bin\Debug\net6.0\Fly.pdb
+C:\Users\bitoche\Desktop\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.csproj.AssemblyReference.cache
+C:\Users\bitoche\Desktop\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitoche\Desktop\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.AssemblyInfoInputs.cache
+C:\Users\bitoche\Desktop\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.AssemblyInfo.cs
+C:\Users\bitoche\Desktop\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.csproj.CoreCompileInputs.cache
+C:\Users\bitoche\Desktop\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bitoche\Desktop\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.RazorAssemblyInfo.cache
+C:\Users\bitoche\Desktop\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.RazorAssemblyInfo.cs
+C:\Users\bitoche\Desktop\fly\Fly.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bitoche\Desktop\fly\Fly.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bitoche\Desktop\fly\Fly.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\bitoche\Desktop\fly\Fly.Web\obj\Debug\net6.0\scopedcss\bundle\Fly.Web.styles.css
+C:\Users\bitoche\Desktop\fly\Fly.Web\obj\Debug\net6.0\scopedcss\projectbundle\Fly.Web.bundle.scp.css
+C:\Users\bitoche\Desktop\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.csproj.CopyComplete
+C:\Users\bitoche\Desktop\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\obj\Debug\net6.0\refint\Fly.Web.dll
+C:\Users\bitoche\Desktop\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.pdb
+C:\Users\bitoche\Desktop\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.genruntimeconfig.cache
+C:\Users\bitoche\Desktop\fly\Fly.Web\obj\Debug\net6.0\ref\Fly.Web.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.staticwebassets.runtime.json
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.exe
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.deps.json
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.runtimeconfig.json
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.pdb
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Fly.Data.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Fly.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Fly.Services.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Fly.Data.pdb
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Fly.Services.pdb
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Fly.pdb
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.csproj.AssemblyReference.cache
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.AssemblyInfoInputs.cache
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.AssemblyInfo.cs
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.csproj.CoreCompileInputs.cache
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.RazorAssemblyInfo.cache
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.RazorAssemblyInfo.cs
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\scopedcss\bundle\Fly.Web.styles.css
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\scopedcss\projectbundle\Fly.Web.bundle.scp.css
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.csproj.CopyComplete
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\refint\Fly.Web.dll
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.pdb
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.genruntimeconfig.cache
+C:\Users\Geome\OneDrive\Рабочий стол\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\ref\Fly.Web.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.staticwebassets.runtime.json
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.exe
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.deps.json
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.runtimeconfig.json
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.pdb
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Humanizer.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Fly.Data.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Fly.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Fly.Services.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Fly.Data.pdb
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Fly.Services.pdb
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\bin\Debug\net6.0\Fly.pdb
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.csproj.AssemblyReference.cache
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.AssemblyInfoInputs.cache
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.AssemblyInfo.cs
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.csproj.CoreCompileInputs.cache
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.RazorAssemblyInfo.cache
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.RazorAssemblyInfo.cs
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\scopedcss\bundle\Fly.Web.styles.css
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\scopedcss\projectbundle\Fly.Web.bundle.scp.css
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.csproj.CopyComplete
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\refint\Fly.Web.dll
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.pdb
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.genruntimeconfig.cache
+C:\Users\bitoche\Desktop\FLY - пустая тема с большим запасом\fly\Fly.Web\obj\Debug\net6.0\ref\Fly.Web.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.staticwebassets.runtime.json
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.exe
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.deps.json
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.runtimeconfig.json
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.pdb
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Fly.Data.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Fly.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Fly.Services.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Fly.Data.pdb
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Fly.Services.pdb
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\bin\Debug\net6.0\Fly.pdb
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.csproj.AssemblyReference.cache
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.AssemblyInfoInputs.cache
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.AssemblyInfo.cs
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.csproj.CoreCompileInputs.cache
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.RazorAssemblyInfo.cache
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.RazorAssemblyInfo.cs
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\obj\Debug\net6.0\scopedcss\bundle\Fly.Web.styles.css
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\obj\Debug\net6.0\scopedcss\projectbundle\Fly.Web.bundle.scp.css
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.csproj.CopyComplete
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\obj\Debug\net6.0\refint\Fly.Web.dll
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.pdb
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.genruntimeconfig.cache
+C:\Users\Geome\OneDrive\Рабочий стол\fly\Fly.Web\obj\Debug\net6.0\ref\Fly.Web.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.staticwebassets.runtime.json
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.exe
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.deps.json
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.runtimeconfig.json
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Fly.Web.pdb
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Fly.Data.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Fly.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Fly.Services.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Fly.Data.pdb
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Fly.Services.pdb
+C:\Users\Geome\source\repos\fly\Fly.Web\bin\Debug\net6.0\Fly.pdb
+C:\Users\Geome\source\repos\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.csproj.AssemblyReference.cache
+C:\Users\Geome\source\repos\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geome\source\repos\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.AssemblyInfoInputs.cache
+C:\Users\Geome\source\repos\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.AssemblyInfo.cs
+C:\Users\Geome\source\repos\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.csproj.CoreCompileInputs.cache
+C:\Users\Geome\source\repos\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Geome\source\repos\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.RazorAssemblyInfo.cache
+C:\Users\Geome\source\repos\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.RazorAssemblyInfo.cs
+C:\Users\Geome\source\repos\fly\Fly.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Geome\source\repos\fly\Fly.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Geome\source\repos\fly\Fly.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Geome\source\repos\fly\Fly.Web\obj\Debug\net6.0\scopedcss\bundle\Fly.Web.styles.css
+C:\Users\Geome\source\repos\fly\Fly.Web\obj\Debug\net6.0\scopedcss\projectbundle\Fly.Web.bundle.scp.css
+C:\Users\Geome\source\repos\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.csproj.CopyComplete
+C:\Users\Geome\source\repos\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\obj\Debug\net6.0\refint\Fly.Web.dll
+C:\Users\Geome\source\repos\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.pdb
+C:\Users\Geome\source\repos\fly\Fly.Web\obj\Debug\net6.0\Fly.Web.genruntimeconfig.cache
+C:\Users\Geome\source\repos\fly\Fly.Web\obj\Debug\net6.0\ref\Fly.Web.dll

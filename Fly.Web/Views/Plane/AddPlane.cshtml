@@ -1,0 +1,13 @@
+﻿
+
+
+<a class="btn-go-main" href="@Url.Action("Index", "Home")">&larr;На главную</a>
+<div class="admin-form" style="width:50%; margin:0 auto; padding:20px; background-color:rgba(0,0,0,0.1);">
+	<form action="@Url.Action("AddPlane","Plane")" method="post">
+		<p>Название самолёта</p><input class="form-control" type="text" name="name" value="plane" />
+		<p>Описание</p><input class="form-control" type="text" name="description" value="описание" />
+		<p>Ссылка на картинку</p><input class="form-control" type="text" name="image" value="https://i.gifer.com/XOsX.gif" />
+		<p>Координаты ВПП</p><input class="form-control" type="text" name="coordRunwStrip" value="5.125125, 9.124424" />
+		<button type="submit">Добавить самолёт</button>
+	</form>
+</div>
